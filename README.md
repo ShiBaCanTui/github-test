@@ -1,2 +1,2 @@
 # github-test
-test仓库
+test仓库，代码托管。
